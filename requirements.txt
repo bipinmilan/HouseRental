@@ -24,7 +24,7 @@ django-static-templates==0.0.1
 django-staticfiles==1.2.1
 django-videofield==0.1.1
 djangocms-glyphicon-awesome==0.1.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 entrypoints==0.3
 fanstatic==1.1
 idna==2.8
